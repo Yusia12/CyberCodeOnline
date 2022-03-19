@@ -2024,6 +2024,10 @@
  	 	 	 	],
  	 	 	 	"trans": "${playerName}에게 답장 보내는 중",
  	 	 	 	"eng": "Replying to ${playerName}"
+       	},
+ 	 	 	"less than a minute ago": {
+ 	 	 	 	"trans": "1 분 미만",
+ 	 	 	 	"eng": "less than a minute ago"
  	 	 	}
  	 	},
  	 	"setting": {
